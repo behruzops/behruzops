@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Linux+Engineer;DevOps+Engineer;Oracle+DBA+Junior;Monitoring+%26+Automation;Docker+%7C+Grafana+%7C+Oracle" />
 </p>
 
-# Hi 👋 I'm Behruz Shuxratov
-
-## DevOps & Oracle Monitoring Engineer
----
-
 ## ⚡ Technologies
 
 - Linux
