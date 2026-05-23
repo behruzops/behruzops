@@ -64,3 +64,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behruzops&label=Profile%20views&color=0e75b6&style=flat" alt="behruzops" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzops&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=behruzops&theme=tokyonight&row=1&column=6" />
+</p>
