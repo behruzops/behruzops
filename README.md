@@ -60,3 +60,7 @@
 - Email: behruzshuxratov58@gmail.com
 - GitHub: github.com/behruzops
 - Telegram: @Shuxratov_Behruz
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=behruzops&label=Profile%20views&color=0e75b6&style=flat" alt="behruzops" />
+</p>
