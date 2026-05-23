@@ -59,11 +59,4 @@
 
 - Email: behruzshuxratov58@gmail.com
 - GitHub: github.com/behruzops
-
-## 📫 Connect with me
-
-<p align="left">
-<a href="https://t.me/Shuxratov_Behruz" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="telegram" height="30" width="40" />
-</a>
-</p>
+- Telegram: @Shuxratov_Behruz
